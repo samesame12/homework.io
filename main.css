@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Tajawal');
+
+#section1 {
+    background-image: url("picture/bg1.png");
+    opacity: 0.8;
+
+}
+#section1 .row .col .logo{
+    background-position: no-repeat;
+}
+
+#section2 .row .col-md-6 img{
+    width: 100%;
+}
+#section2 .row .col-md-6 .coloricons i{
+    color: #64CA78;
+}
+#section2 .row .col12, .col-md-6{
+    border-width: 20px;
+    border: #64CA78;
+}
+#section3{
+    background-color: #2F313D;
+}
+i{
+    color: white;
+}
+hr{
+    border: 2px solid #64CA78 ;
+    width: 50px;
+}
